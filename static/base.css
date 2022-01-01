@@ -1,0 +1,17 @@
+.header{
+    text-align:center;
+    margin: 2rem 0;
+}
+
+.footer {
+    text-align:center;
+    margin-top: 2rem;
+}
+
+.footer_button {
+    font-size: .8rem;
+}
+
+.logo {
+    font-family: 'Lobster', cursive;
+}
