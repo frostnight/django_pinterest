@@ -15,3 +15,11 @@
 .logo {
     font-family: 'Lobster', cursive;
 }
+
+input[type=password] {
+    font-family: "Malgun gothic";
+
+    &::placeholder {
+        font-family: "NanumSquareR";
+    }
+}
