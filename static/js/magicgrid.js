@@ -290,7 +290,8 @@ let magicGrid = new MagicGrid({
   animate: true,
   gutter: 30,
   static: true,
-  useMin: true
+  useMin: true,
+  center: true
 });
 
 var masonrys = document.getElementsByTagName("img");
